@@ -59,7 +59,6 @@ Hypernotes - decoupling of content, form, aesthetic, access (security/privacy), 
 
 - The foolishness of God
 - Stewardship, dominion mandate
-- TGFN #2 talks about rebellion against authorities, but it seems not relevant to the book
 - The idea that everyone should put their money where their mouth is. Faithfulness in little
 - "Our tools formally shape us in a way unlike and incomparable to the instrumental way we shape them" (HF 140)
 - Make sure to mention that social media is not for kids! Keep kids off it. [Clare Morell]

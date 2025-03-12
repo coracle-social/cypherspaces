@@ -1,0 +1,23 @@
+- Human flourishing
+  - Identity
+    - Memory vs creativity
+    - Doing vs saying
+  - Pace
+    - Quantity vs quality of connections
+    - Fragility vs sustainability
+    - Skill vs distraction
+  - Reality
+    - Simulation vs transcendence
+    - Hyperreality and self-making
+    - Purpose and meaning
+- Cryptographic identity
+  - Authenticity
+  - Privacy
+- Aligned storage
+  - Decoupling authenticity and storage
+  - Redundancy
+  - Privacy
+  - Self-hosting
+- Open protocol
+  - Language vs systems
+  - Complex vs complicated
