@@ -35,3 +35,14 @@ Wendell Berry is best known for lamenting the loss of family farms as a result o
 ## Nostr: sovereign identity, aligned storage, open protocol [link](./09.md)
 
 Nostr brings together aspects of language, self-authentication, and localism - all revealed to us in nature - to create a new kind of digital medium. This medium honors the individual as one who may or may not choose to speak. It avoids the capture of our speech (and therefore identity) by tying speech to cryptographic identity. As an open protocol it encourages generosity, invites participation, and welcomes new ways of articulating the exchange of different kinds of information. It encourages reliance on relationships through webs of trust, self-hosting, and encryption. Nostr is as yet untried and will no doubt be revealed to have its own flaws and perverse incentives, but it follows in the footsteps of bitcoin as being a new way of arranging digital technology for human flourishing, rather than for profit.
+
+## Appendix: Dark Cypherspace & The Gospel
+
+- There are negative externalities to cypherspace
+  - Illegal content and criminal activity
+  - Law enforcement should pursue evil, but must respect individual rights
+  - Cypherspace is a technological reinforcement of liberal rights
+- God trusted us with a permissionless, surveillance-free world
+- Problem of evil - God gave us freedom to leave room for love
+- The only solution is New Creation
+- Whatever is done in the dark will be revealed
