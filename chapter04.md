@@ -1,0 +1,36 @@
+# Abstract
+
+Identity: Privacy, secrecy and anonymity
+
+Our lives were never meant to be put on display before the world. When we broadcast our inner thoughts to whatever audience we can attract, only the most interesting - and therefore, humiliating - parts are remembered. Holding back our thoughts is an essential part of wisdom. Secrecy, on the other hand, implies that some action is purposely hidden from those who have a right to know. Anonymity may be used in service of either end - but it cannot be abolished without destroying the ability of the individual to remain a private and distinct person.
+
+# Outline
+
+- Proverbs 17:28
+- Anonymity gets a bad rap
+  - Cowardly, specifically in the context of anonymous accusations
+    - https://media.sabda.org/alkitab-9/LIBRARY/SPU_SAL2.PDF (search "anonymous")
+    - https://dougwils.com/books-and-culture/s7-engaging-the-culture/brief-notes-on-anonymity.html
+  - Impossible to enforce - asking other people to abstain from sharing information
+    - https://dougwils.com/books/privacy-or-anonymity.html
+  - Breaks structures of authority and accountability, especially online
+    - https://dougwils.com/books-and-culture/s7-engaging-the-culture/to-all-the-anons-shall-we-see-you-anon.html
+- Secrecy vs privacy
+  - Cypherpunk Manifesto: https://www.activism.net/cypherpunk/manifesto.html
+  - Secrecy implies wrongdoing
+- Privacy as authenticity
+  - "Identity is participation, it's not actually who you think you are or how you think about yourself, it's where you are and how you participate in that world. Identity is something you engage in." (Jonathan Pageau, Zero Hour Episode 87)
+  - Partitioning of identity is normal, not dysfunctional (Superbloom 164)
+  - In the digital world, we selectively reveal ourselves with digital signatures and encryption
+- Privacy as activism
+  - Federalist papers: https://csac.history.wisc.edu/2022/07/22/pseudonyms-and-the-debate-over-the-constitution/
+  - Solzenhitsyn (LNBL 69, 90, https://www.solzhenitsyncenter.org/live-not-by-lies)
+- Privacy as self-defense: The weaponization of our data
+  - "Surveillance capitalism" (LNBL 76ff, 91)
+  - 23 and me and chemical weapons
+  - Information that is harmless in isolation becomes powerful in the aggregate
+  - https://jstaab.substack.com/p/digital-privacy-is-for-christians
+
+# Notes
+
+Read "Live not by Lies". Privacy is about living in truth.

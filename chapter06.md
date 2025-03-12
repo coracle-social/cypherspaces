@@ -1,0 +1,36 @@
+# Abstract
+
+Things of Earth: Distraction and transcendence
+
+In an effort to transcend the limits of the physical world through "labor saving devices" and the metaverse, we have entrapped ourselves in a simulation of life, while simultaneously distancing ourselves from the real thing. AI is only the next logical step in this process: we simulate life so that it can take our place in living our own simulated lives. But God affirms the goodness of the physical world and its fitness for man first in His original act of creation, and later in the incarnation of Jesus. It is through the physical world that God reaches out to us, and in the physical world that we find Him. But the digital world is not only a distraction and escape - it can also grant us access to Truth, Beauty, and Goodness as an agent of creation, and therefore of God.
+
+# Outline
+
+- By engaging with everything all at once, we are committing ourselves to less
+  - Barba-Kay 69, 165, 166
+  - The simulation is the creation of a hyperverse which consumes offline reality (Superbloom)
+  - In the simulation, we do nothing, and therefore are nothing (citing Pageau, in chapter 1)
+  - But what if the simulation became more real than reality?
+- Greg Egan's simulated people - always tethered to reality for sustained existence
+  - "High fidelity" means faithfulness - but that breaks down when you exceed reality
+  - Faith means allegiance to something higher (trusting whom, not dogmatic what), faith is not about close imitation, but trust
+  - AI is the next logical step - simulated life can live our simulation for us.
+- So what ought we be faithful to?
+  - People often resort to an essentialist view of reality as good "just because"
+  - Nevertheless, we intuit its truth: "'Experience' has become a telling term for what we cannot have online." (BK 174)
+  - Can't answer this without resorting to the theological answer of the incarnation and creation. Take that, Carl Sagan!
+  - Reality isn't just the material world, but the material world is integral to how God reaches out to us, and how we find God.
+- People suck
+  - Community and relationships are hard (Pablo, Scott Mann)
+  - Creation has meaning that points to transcendent reality. Maybe explicitly (ToE 58), or implicitly.
+  - "To the extent that we can express unqualified approbation of any 'community'... is it also a sign that we don't inhabit a real one." (BK 96) "That such associations should then seek to mimic or simulate the experience of rooted belonging, that we should wax rosy about 'community' as an unadulturated good are all symptoms of the sentimentalization of the freedom to be bound that we specifically lack online." (98, 102)
+  - "Reality is something that resists and exceeds our capacity to will, something that can occasionally catch us off guard, make contact, and elate." (BK 183)
+  - "To express the necessary friction between the present and the future - this is the stewardship of the world." (Barba-Kay 86)
+- The purpose of the physical world is to lead us to God
+  - Transcendent virtues (Schindler)
+- Material reality is not special, information also reveals transcendence.
+  - Math as an example - mandelbrot set
+  - New forms of language (code)
+  - New forms of art
+  - Access to information
+  - Digital systems that encourage Goodness (CHT)

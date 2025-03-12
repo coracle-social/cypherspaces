@@ -1,0 +1,46 @@
+# Abstract
+
+Digital Localism: The democratization fallacy and the Swarm
+
+The effect of digital technology has been to accelerate acts of communication while reducing the amount of meaning conveyed in each. As our speech becomes more vacuous, the identities we forge by means of that speech follow suit. The gift of "voice" has become a curse, dissolving our unique internal lives into an undifferentiated mass of "popular culture" - which itself has been increasingly evacuated of meaning. "Digital localism" recognizes first that not everything in our lives must be shared, and that it matters with whom we share our lives.
+
+# Outline
+
+- The logic of digital media is to accelerate, compress, and simplify (McLuhan)
+  - Digital media came out of a pluralistic, democratic society, and was unreflectively adopted because it reflected our values.
+  - Democratization fallacy (Superbloom)
+  - "But a medium of perfect anonymity has no more to offer, politically speaking, than a medium of perfect transparency: both crypto anarchists and communists with Chinese charactersitics share the aim of eliminating the need for public life. Both therefore share the same altogether negative notion of freedom." This is the freedom to an undisturbed private life, which is the freedom not to be responsible because policy consists in technical challenges that are better managed by able administrators. (BK 146)
+  - "Digital globalism" (HF 205)
+  - Leads to Totalitarianism (Arendt)
+- Moar speech
+  - "Online information has no intrinsic political form. It is thereby at variance with politics as such." (Barba-Kay 90ff, voluntaryism is fueled by digital assumptions, 101)
+  - This attempts to solve the problem by leaning into it. It's reasonable as a reaction against totalitarianism, but insufficient.
+  - Similar to a debt based economy in that acceleration is preferable to correction.
+- Move away from mass media
+  - "Even if you take yourself to be communicating with some, you are always liable to all." (BK 119)
+  - The Swarm (HF) and "Authenticity" (HF 51) - individualism leads to the mass
+  - Yeast vs organs (BAP)
+  - Collective action - the role of politics and institutions
+    - https://vimeo.com/761665339 @11:00 - feedback loop between technology, culture, and institutions/markets
+- "Digital Localism"
+  - Selective revelation of self (what we share, and with whom)
+  - Distinct from the "small web": yesterweb, webrings, neocities, melonland.net, etc., but similar in some ways.
+  - Members vs users - users are objective, addicted. Members have exclusive agency and stake.
+  - "It used to be that, when you communicated with someone, the person you were communicating with was as important as the information." (BK 105, Lawrence Krauss) "What is unprecedented about our own situation online is the relative absense of just such a framework" of context and relationship. (106) "Online words are to reason what cubism is to art." (107)
+  - [Localism][]
+    - Independent ownership - uncle Jim model, self hosting, cryptographic identity
+    - Local buying/sourcing - Literally, and figuratively. Community members rely on one another.
+    - Pragmatic partnering - trust relationships form the basis for making related resources available to members
+  - Digital localism is broader than plain old localism:
+    - Not just about markets, but applies the idea of circular economies to relationships between people ("oikos")
+    - Not confined to geographical localism, aimed at meaningful relationships (although geographical localism is a good heuristic)
+- Achieving digital localism in a decentralized setting
+  - Implicit: Web of trust/social clustering
+  - Explicit: Nominal community access controls
+- Digital spaces engineered not to extract from, but support real life (leads into next chapter: why is real life good?)
+  - "Sheryl Sandberg can assert that 'faith organizations and social media are a natural fit because fundamentally both are about connection' - a vacuous statement on its own merits, but one suggesting how easily the neutrality of the platform can be thought of as somehow encompassing doctrinal differences under the category of "connection", thereby neutralizing them and colonizing them. (BK 220)
+  - "By allowing us to be in frequent contact at a distance, online associations make it easier to move away." (BK 99, 102) "All manner of new digital community platforms are, for all these reasons, not simply simulating offline communities, but helping dissolve them - and then selling the narcotic self-indulgence of 'belonging' back to their users." (103)
+
+
+
+[Localism]: https://repository.rit.edu/cgi/viewcontent.cgi?article=1013&context=jes

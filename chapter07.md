@@ -1,0 +1,36 @@
+# Abstract
+
+Open Protocols: Language and open source software
+
+The study of language is impossible to achieve with objectivity because of the fluidity of meaning. There is nothing we can do to impose our ideas of orderliness on communication; neologisms, sarcasm, malapropisms, inference, ambiguity, and omission are all part of the business of conveying meaning from one person to another. In the same way, the Free and Open Source Software movement embraces ambiguity, subjective value, and innovation in its ethic. The idea of an open protocol takes these ideas one step further by combining them into something entirely new.
+
+# Outline
+
+- English is good for human-to-human communication, but not for communicating with machines
+  - In the digital world, machines provide affordances for humans
+  - The idea of a "protocol"
+- What should a protocol look like?
+  - Closed protocols eliminate possibilities, and limit participation to privileged members
+  - Closed protocols are rigid, which fails to imitate real human language
+    - The idea of the perfect hackable language (HF 139, 185), John Wilkins
+    - The futility of the semantic web - "all symbols fall" (HF 245)
+  - Closed protocols are usually ok! But a protocol for speech must be open
+  - Must be a complex system, because that's what it's representing
+    - Complicated vs complex https://vimeo.com/761665339 @50:00
+- Examples of open protocols
+  - "Creation as communication" - nature is already the perfect language, and embraces ambiguity, symbol, etc (ToE 58)
+  - Human lanugage
+  - FOSS movement
+  - The Web
+- What open protocols get us
+  - Anyone can build anything, and the market can decide
+  - This frees the medium from the custodians and makes it possible for better ideas to be discovered and adopted
+  - "Trust the user" - Tech is not the solution to our problems, people are. Trust them, and let them innovate.
+  - At the same time, trust yourself. Open protocols allow developers to follow their own values in designing products.
+- Restoration of human agency in the digital world
+  - We have to move back along the spectrum between convenience and control
+  - "Our autonomy takes the form of being a passenger." (Barba-Kay, 56)
+  - "Our search for frictionlessness contains our search for a technology of perfect obedience." (Barba-Kay, 168)
+  - We should resist the impulse to systematize. A complex system must be able to adapt to a complex world.
+  - "I acknowledge that I am offering no special program for a better digital life... in part because I think that our grasping at policies and technical solutions is itself a sign of our current ordeal by data." (BK 246)
+

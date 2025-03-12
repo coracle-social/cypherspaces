@@ -1,0 +1,42 @@
+# Abstract
+
+Censorship: Custodians of knowledge
+
+As knowledge has escaped our heads it has become less free. Knowledge deposited in a book, disseminated by a publishing company, or stored in a database has become captive to the custodian. When the platforms our oracles of knowledge stand upon are hijacked by advertisers seeking to absorb our attention for profit, the knowledge that would become wisdom in us spoils, yielding vice instead. The public square we left behind when we entered cyberspace is now empty. But the words we speak can be put back into our own mouths.
+
+# Outline
+
+- Knowledge can be lost
+  - We normally focus on how easy it is to replicate, but it can be lost just as easily if no copies are made
+  - Loss of authentication is often loss of authenticity, since most digital knowledge is stored by custodians
+- History of common carriers, public interest (Superbloom, 42).
+  - Section 230 gives carriers liability immunity when moderating content, even if constitutionally protected
+- Deep state?
+  - Hunter Biden laptop story was censored
+  - No evidence the FBI exerted pressure on Twitter in this case:
+    - https://www.cnn.com/2022/12/23/politics/twitter-files-elon-musk-fbi-hunter-biden-laptop/index.html
+  - Get into twitter files
+- Or advertisers?
+  - Cite Jack Dorsey (congress testimony? podcast?)
+    - He intended Twitter to be an open platform
+    - There was a pivot at some point which brought it under the control of advertisers
+    - Banning of Trump
+  - Cite Social Dilemma
+  - Cite Superbloom 72-73
+  - Optimization for engagement
+  - Evolution of the google search page
+  - Perverts incentives, promoting addiction rather than edification
+- We're stranded in the digital world (McLuhan, Superbloom 228)
+  - The old public square has atrophied and we can't go back because digital speed gives us something
+  - This has always been the case anyway
+    - Index of Forbidden Books
+    - https://brewminate.com/censorship-and-freedom-of-the-press-in-the-early-modern-period/
+    - https://en.wikipedia.org/wiki/Roman_censor
+- Naive solution: relays
+  - Joke about "more speech"
+  - Publish to multiple parties
+  - Selected parties that are more closely aligned
+  - Advertise which hosts you prefer
+  - Self-host your own content
+  - Basics of NIP 65
+- Advanced solution: signatures (foreshadow next chapter)
