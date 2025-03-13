@@ -1,3 +1,5 @@
+# THIS IS A WORK IN PROGRESS
+
 Cryptography can be used to craft a more humane social media ecosystem by freeing information from custodians, decoupling digital identities from third-party providers, encouraging openness and innovation, embracing privacy and community, and anchoring the digital world in the real.
 
 ## Memory: Thucydides and the shallows [link](./01.md)
@@ -35,6 +37,10 @@ Wendell Berry is best known for lamenting the loss of family farms as a result o
 ## Nostr: sovereign identity, aligned storage, open protocol [link](./09.md)
 
 Nostr brings together aspects of language, self-authentication, and localism - all revealed to us in nature - to create a new kind of digital medium. This medium honors the individual as one who may or may not choose to speak. It avoids the capture of our speech (and therefore identity) by tying speech to cryptographic identity. As an open protocol it encourages generosity, invites participation, and welcomes new ways of articulating the exchange of different kinds of information. It encourages reliance on relationships through webs of trust, self-hosting, and encryption. Nostr is as yet untried and will no doubt be revealed to have its own flaws and perverse incentives, but it follows in the footsteps of bitcoin as being a new way of arranging digital technology for human flourishing, rather than for profit.
+
+## Understanding media: how a user-centric internet changes us [link](./10.md)
+
+Cyphspaces are a new medium with many of the same characteristics of the digital, but with additional affordances for protecting user agency. The implications of such a medium are hard to predict, but we can anticipate some of its effects: greater accountability for actions, leading to a reticence to sign public events (or to use the medium at all); less frequent, but more severe data breaches; lower-quality software, but more aligned with users (ala linux); reduction in abuse by platforms through disintermediation and interoperability; a shift from advertising models to paid or v4v models; the spread of digital signatures to other parts of the digital world.
 
 ## Appendix: Dark Cypherspace & The Gospel
 

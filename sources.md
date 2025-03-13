@@ -17,7 +17,7 @@
 - Things of the Earth
 - Diaspora by Greg Egan
 - Civitas podcast #27
-- Gadamer
+- Gadamer: Truth and Method
 - John Wilkins: https://www.atlasobscura.com/articles/the-17thcentury-language-that-divided-everything-in-the-universe-into-40-categories
 - Cypherpunk Manifesto: https://www.activism.net/cypherpunk/manifesto.html
 - Live not by Lies
