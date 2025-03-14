@@ -25,6 +25,7 @@
 - Gleason on Bluesky nevent1qyt8wumn8ghj7un9d3shjtnddaehgu3wwp6kytcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcprdmhxue69uhkwmr9v9ek7mnpw3hhytnyv4mz7un9d3shjqgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qpqvmmqxzjw99u2euzvtzfzmcfehxrjkrh3mkwl0vtqc5l74q0p2tcsm5kv8w
 - http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
 - [Localism]: https://repository.rit.edu/cgi/viewcontent.cgi?article=1013&context=jes
+- https://twitterfiles.substack.com/
 
 
 # To Read
