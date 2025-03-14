@@ -8,6 +8,8 @@ Cryptography can be used to craft a more humane social media ecosystem by freein
 
 Socrates, a contemporary of Thucydides, worried that writing would erode our ability to remember. As time has gone on, our memories have been externalized in the form of written books, print, and finally digital media. We live in what Nicholas Carr calls "The Shallows", a liminal space somewhere between reality and abstraction, where history repeats itself because we fail to study the past, and where we lose even our own identities, even as we strive to express them in ever more frantic rituals of self-making. But if we can refocus our attention on our native spaces and times, even within the abstractions of the digital world, we can rediscover our pace and find ourselves again.
 
+> Move stuff about liquefaction/democratization fallacy here
+
 # Part 2: Technology that says "no"
 
 ## Censorship: the custodians of knowledge [link](./02.md)
@@ -26,19 +28,19 @@ Our lives were never meant to be put on display before the world. When we broadc
 
 The study of language is impossible to achieve with objectivity because of the fluidity of meaning. There is nothing we can do to impose our ideas of orderliness on communication; neologisms, sarcasm, malapropisms, inference, ambiguity, and omission are all part of the business of conveying meaning from one person to another. In the same way, the Free and Open Source Software movement embraces ambiguity, subjective value, and innovation in its ethic. The idea of an open protocol takes these ideas one step further by combining them into something entirely new.
 
-# Part 3: Things of the Earth
+# Part 3: Reforming Technology
 
-## Digital Localism: The democratization fallacy and the Swarm [link](./06.md)
+## Things of the Earth: Simulation and transcendence [link](./06.md)
 
-The effect of digital technology has been to accelerate acts of communication while reducing the amount of meaning conveyed in each. As our speech becomes more vacuous, the identities we forge by means of that speech follow suit. The gift of "voice" has become a curse, dissolving our unique internal lives into an undifferentiated mass of "popular culture" - which itself has been increasingly evacuated of meaning. "Digital localism" recognizes first that not everything in our lives must be shared, and that it matters with whom we share our lives. More speech is not better speech.
+The fast pace of technological progress has seduced us into living on its own terms. The hyperreality created by being always online has expanded to subsume much of our time and attention, as we accept its Faustian offer to remake us in its own image. But whatever heights of definition the simulation brings our confected conscious, it cannot offer a true escape from the material world. Create, subjected as it is to futility, is nevertheless good, and is the only way for us to be elevated to a transcendent state of being. All that is required of us is to humble ourselves and accept its - and God's - terms.
 
-## Things of Earth: Distraction and transcendence [link](./07.md)
+## Chesteron's Fence: Identity and community [link](./07.md)
 
-In an effort to transcend the limits of the physical world through "labor saving devices" and the metaverse, we have entrapped ourselves in a simulation of life, while simultaneously distancing ourselves from the real thing. AI is only the next logical step in this process: we simulate life so that it can take our place in living our own simulated lives. But God affirms the goodness of the physical world and its fitness for man first in His original act of creation, and later in the incarnation of Jesus. It is through the physical world that God reaches out to us, and in the physical world that we find Him. But the digital world is not only a distraction and escape - it can also grant us access to Truth, Beauty, and Goodness as an agent of creation, and therefore of God.
+Although we have forgotten ourselves, we have lot lost ourselves. Base reality is always there to remind us of where we came from, and what we've been given. In the world of information we attempt to speak ourselves into existence - but that has already be done. Our role is not so much to speak as to do - to embody through ritual the speech of Another. To _do_, we must grapple with the friction inherent not only in doing, but in becoming as well. To do so, we must erect fences - not to imprison us as the walled gardens did, but to free us to exercise agency and stewardship.
 
-## Time Preference: Wendell Berry and humane design [link](./08.md)
+## Silviculture: Maturity and time [link](./08.md)
 
-Wendell Berry is best known for lamenting the loss of family farms as a result of the proliferation of industrial technology in farming. He sees the beauty of an integrated life, and the place of work in it. He sees the erosion of the soil as the loss of a legacy that will be felt for many generations after him. Protecting this heritage requires putting up fences, culturally, politically, and technologically. Speed increases connections, but it also increases fragility. Building on an open protocol makes it possible to experiment in low-risk ways, while at the same time enabling users to choose the products that reflect their values.
+The fences that last the longest are hedges. These take a long time to build, but not only last but provide a habitat for animals that live in them. Whereas the digital world moves at light speed, proliferating connections between people until society becomes an undifferentiated mass, maturity requires and results in patience. Skill and depth of relationship cannot exist in a culture defined by distraction. McLuhan saw media as an environment in which we are shaped by our tools; we should embrace the metaphor and practice permaculture through "digital localism".
 
 # Part 4: Cypherspaces
 
@@ -60,3 +62,4 @@ Cyphspaces are a new medium with many of the same characteristics of the digital
 - Problem of evil - God gave us freedom to leave room for love
 - The only solution is New Creation
 - Whatever is done in the dark will be revealed
+- "Nostr is decentralized, but it is a loaded gun. You're more likely to kill yourself with a gun than someone else. This is on purpose, because it wholly embraces the consequnces of being truly decentralized." (Gleason)

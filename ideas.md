@@ -9,3 +9,8 @@
   - https://vimeo.com/761665339 @11:00 - feedback loop between technology, culture, and institutions/markets
 - How do we grapple with the fact that people want distraction, and society doesn't scale? How can user choice keep us from collectively choosing the wrong things? (Carr, 228)
 - Ham radio operators as proto-hackers (Carr, McLuhan 304)
+- "Even if you take yourself to be communicating with some, you are always liable to all." (Barba-Kay 119)
+- Mass media consumes the whole person. To be a whole person, we must dis-integrate again (McLuhan 138, 173)
+- Distinct from the "small web": yesterweb, webrings, neocities, melonland.net, etc., but similar in some ways.
+- Members vs users - users are objective, addicted. Members have exclusive agency and stake.
+- Groups of people are themselves media (Carr, 12)
