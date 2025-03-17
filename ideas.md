@@ -14,3 +14,8 @@
 - Distinct from the "small web": yesterweb, webrings, neocities, melonland.net, etc., but similar in some ways.
 - Members vs users - users are objective, addicted. Members have exclusive agency and stake.
 - Groups of people are themselves media (Carr, 12)
+- Digital vs electronic cash (No Solutions 4) - electronic implies real, digital implies simulation
+- ZK compute and AI
+- Why can't we just stop using tech
+- consent
+- Acknowledge factions that want to accelerate liquefaction, instrumentalization, quantification
