@@ -26,6 +26,9 @@
 - http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
 - [Localism]: https://repository.rit.edu/cgi/viewcontent.cgi?article=1013&context=jes
 - https://twitterfiles.substack.com/
+- Eliza Bleu nevent1qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxthwden5te0wpex2mtfw4kjuurjd9kkzmpwdejhgtcpzemhxue69uhhyetvv9ujumt0wd68ytnsw43z7qfqwaehxw309aex2mrp0yhxummyv4e82mnwv4e8xtnwv468wmmjdvhsqgpapx6yf6e3ymyxlpaz7ugg9jt0tvywfzr9fu0mzu704pr7wz026gcr82cp
+- You wouldn't zap a car crash nostr:nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqyvhwumn8ghj7urjv4kkjatd9ec8y6tdv9kzumn9wshszxnhwden5te0wp6hyctkd9jxztnwdaehgu3wd3skuep0qyf8wumn8ghj7etev4ejue3h0ghxjme0qqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4gw9gw8c
+- Gordon Brander, the Shape of Network Society: https://open.substack.com/pub/subconscious/p/the-shape-of-network-society
 
 
 # To Read

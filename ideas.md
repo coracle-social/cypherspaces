@@ -19,3 +19,8 @@
 - Why can't we just stop using tech
 - consent
 - Acknowledge factions that want to accelerate liquefaction, instrumentalization, quantification
+- Explain why use of cryptography isn't making the mistake that "the negative externalities of human freedom unleashed through technology can be solved by the application of more of the same."
+
+# Questions
+
+- Is the use of first person plural a problem?

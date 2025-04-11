@@ -4,8 +4,8 @@ Cryptography can be used to craft a more humane social media ecosystem by freein
 
 # Part 1: Liquefaction
 
-- Memory: Thucydides and the shallows [link](./01.md)
-- Democracy and Queerness: Accelerated Individualism [link](./02.md)
+- Self-Emulsion [link](./01b.md)
+- Faith, Hope, Love [link](./02b.md)
 
 # Part 2: Technology that says "no"
 
