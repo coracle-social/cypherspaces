@@ -20,6 +20,7 @@
 - consent
 - Acknowledge factions that want to accelerate liquefaction, instrumentalization, quantification
 - Explain why use of cryptography isn't making the mistake that "the negative externalities of human freedom unleashed through technology can be solved by the application of more of the same."
+- Minich 188 - alienation from our work, others, and the world, loss of "commons" means that people can find immediacy and fulfillment by working in open systems, even if virutal
 
 # Questions
 
