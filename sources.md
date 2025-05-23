@@ -37,7 +37,6 @@
 - The Attention Merchants
 - afutureforthefamily.org
 - Center for Humane Technology
-- God, Technology, and the Christian Life
 - Guardini, The End of the Modern World
 - https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/
 

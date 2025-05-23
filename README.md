@@ -5,6 +5,7 @@ Cryptography can be used to craft a more humane social media ecosystem by freein
 # Part 1: Liquefaction
 
 - Self-Emulsion [link](./01b.md)
+- In defense of the internet, and what went wrong
 - Faith, Hope, Love [link](./02b.md)
 
 # Part 2: Technology that says "no"
@@ -13,6 +14,7 @@ Cryptography can be used to craft a more humane social media ecosystem by freein
 - Authenticity: messages and messengers [link](./04.md)
 - Identity: Privacy, secrecy and anonymity [link](./05.md)
 - Open Protocols: Language and open source software [link](./06.md)
+- Self-hostring: seizing the means of protection
 
 # Part 3: Reforming Technology
 
